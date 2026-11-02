@@ -1,0 +1,41 @@
+body{
+    background-color: peachpuff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    color: grey;
+    font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a{
+    color: slateblue;
+}
+nav ul{
+    background-color: sandybrown;
+    border-width: 4px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: antiquewhite;
+    padding: 15px;
+}
+nav ul li{
+    display: inline;
+    margin-left: 10px;
+    color: papayawhip;
+}
+nav ul li a{
+    text-decoration: none;
+    color: olive;
+}
+
+div{
+    position: relative;
+    padding-bottom: 40%;
+}
+table , th, td{
+    border: 2px solid honeydew;
+    border-collapse:collapse ;
+}
